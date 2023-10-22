@@ -8,7 +8,7 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**IoM** is an android app that **An app that shows the list of meals related to an ingredient**
 
 If I had to describe this project in three (3) emojis, they would be: **🤓🍔🤤**
 
