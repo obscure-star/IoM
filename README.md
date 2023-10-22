@@ -8,7 +8,7 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**IoM** is an android app that **An app that shows the list of meals related to an ingredient**
+**IoM** is an android app that **shows the list of meals related to an ingredient**
 
 If I had to describe this project in three (3) emojis, they would be: **🤓🍔🤤**
 
